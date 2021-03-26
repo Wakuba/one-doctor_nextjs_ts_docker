@@ -7,19 +7,6 @@
   align-items: center;
 }
 
-.header {
-  display: flex;
-  align-items: baseline;
-  justify-content:left;
-  width:100%;
-  border-bottom: 1px solid #eaeaea;
-}
-
-.header img{
-  width: 40px;
-  height: 40px;
-}
-
 .main {
   padding: 5rem 0;
   flex: 1;
@@ -27,11 +14,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-
-.button {
-  color: red;
-  background-color: black;
 }
 
 .footer {

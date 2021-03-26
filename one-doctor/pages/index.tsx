@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>OneDoctor</h1>
-        <button className={styles.button}>おしてみそ</button>
+        <button className="text-pink-400">おしてみそ</button>
       </main>
 
       <footer className={styles.footer}>
